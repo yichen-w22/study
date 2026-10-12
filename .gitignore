@@ -1,1 +1,4 @@
 .DS_Store
+
+# Large local dataset (exceeds GitHub's 100 MiB file limit)
+/AI方法/深度学习导论/HW/dl/data/PINN选取参数_1min.csv
